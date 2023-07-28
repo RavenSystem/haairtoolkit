@@ -44,3 +44,4 @@ Sample HAA IR Packet capture:
 +  417 - 1742 +  417 -  662 +  417 -  663 +  416 -  662 +  418 -  662 +  417 -  662 +  417 - 1742 +  418 - 1740 
 +  417 - 1742 +  417 - 1741 +  419 - 1739 +  418 
 
+Original source: https://github.com/GarzaCon/HAA-IR-Toolkit
